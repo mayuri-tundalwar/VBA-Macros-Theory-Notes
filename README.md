@@ -111,3 +111,61 @@ Boolean → True or False.
 
 Why use variables?
 To store, calculate, and reuse data.
+
+# 🔵 4️⃣ INTERMEDIATE TOPICS
+
+## 📌 Working with Multiple Sheets and Workbooks
+
+Loop through sheets or workbooks for repetitive tasks.
+
+## 📌 Automating Common Tasks
+
+Sorting and filtering data.
+Formatting ranges.
+Copy-paste operations.
+Generating standard reports.
+
+## 📌 Introduction to UserForms
+
+UserForms are custom dialog boxes.
+Use them to collect user input.
+Add text boxes, buttons, drop-downs.
+Write event code to run when a button is clicked.
+
+## 📌 Working with Charts and PivotTables
+
+Modify chart properties.
+Automate PivotTable creation and refresh.
+
+## 📌 Built-in Functions vs Custom Functions
+
+Write custom functions to reuse your own calculations.
+
+# 🔵 5️⃣ ADVANCED TOPICS
+
+## 📌 Object-Oriented Concepts in VBA
+
+VBA supports Object-Oriented Programming (OOP) in a limited way.
+Create Class Modules to define custom objects.
+Helps manage complex data and reuse code.
+
+## 📌 Class Modules
+Define your own objects with properties and methods.
+
+Example: A class for Employee with Name and Salary.
+
+## 📌 Interacting with Other Applications
+VBA can control Word, Outlook, PowerPoint, etc.
+
+## 📌 File Handling
+
+Open, read, and write text files with VBA.
+Useful for data imports and exports.
+
+🔵 7️⃣ FAQ AND RESOURCES
+
+## 📌 Frequently Asked Questions
+
+What’s the difference between Macros and VBA?
+Are Macros safe?
+How do I share Macros with others?
